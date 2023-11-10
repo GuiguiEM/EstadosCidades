@@ -83,6 +83,6 @@ const getEstadosRegiao = function (regiaoSelecionada) {
 }
 
 console.log(getListaDeEstados())
-console.log(getDadosEstado())
-console.log(getCapitalEstado())
-console.log(getEstadosRegiao())
+// console.log(getDadosEstado())
+// console.log(getCapitalEstado())
+// console.log(getEstadosRegiao())
